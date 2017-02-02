@@ -1,0 +1,75 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Test - Process.st">
+    <meta name="author" content="jpassarellijr@gmail.com">
+
+    <title>Test</title>
+
+    <link href="Theme/css/bootstrap.min.css" rel="stylesheet">
+    <link href="Theme/css/main.css" rel="stylesheet">
+
+    <link href="Theme/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="App/app.css" rel="stylesheet" />
+</head>
+
+<body id="page-top" class="index" ng-app="myApp">
+
+    <!-- Header -->
+    <ng-include src="'App/Layout/Header/header.html'"></ng-include>
+
+    <!-- Render pages here dynamically using ui-route -->
+    <ui-view></ui-view>
+
+    <!-- Footer -->
+    <ng-include src="'App/Layout/Footer/footer.html'"></ng-include>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-top page-scroll visible-xs visible-sm">
+        <a class="btn btn-primary" href="#page-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>
+
+    <!-- jQuery -->
+    <script src="References/Others/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="References/Others/bootstrap.min.js"></script>
+
+    <!-- Angular References-->
+    <script src="References/Angular/angular.js"></script>
+    <script src="References/Angular/angular-route.js"></script>
+    <script src="References/Angular/angular-ui-router.min.js"></script>
+    <!-- End Angular References-->
+    <!-- Blueimp References-->
+    <script src="References/Blueimp/jquery.ui.widget.js"></script>
+    <script src="References/Blueimp/jquery.iframe-transport.js"></script>
+    <script src="References/Blueimp/jquery.fileupload.js"></script>
+    <script src="References/Blueimp/jquery.fileupload-process.js"></script>
+    <script src="References/Blueimp/jquery.fileupload-video.js"></script>
+    <script src="References/Blueimp/jquery.fileupload-validate.js"></script>
+    <!-- End Blueimp References-->
+    <!-- my app and dependent modules -->
+    <script src="App/app.js"></script>
+    <script src="App/appRouting.js"></script>
+    <!-- Dependencies-->
+    <script src="App/Layout/template.js"></script>
+    <script src="App/Pages/myAppPages.js"></script>
+    <!-- END my app-->
+    <!-- Controllers for your pages-->
+    <script src="App/Pages/Home/homeController.js"></script>
+    <!-- End Entrollers for the page-->
+    <!-- services & factories-->
+    <!-- END  services-->
+
+</body>
+
+</html>

@@ -1,0 +1,12 @@
+C:\New folder (2)\ProcessST\SolutionProcessST\Project\bin\Project.dll.config
+C:\New folder (2)\ProcessST\SolutionProcessST\Project\bin\Project.dll
+C:\New folder (2)\ProcessST\SolutionProcessST\Project\bin\Project.pdb
+C:\New folder (2)\ProcessST\SolutionProcessST\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\New folder (2)\ProcessST\SolutionProcessST\Project\obj\Debug\Project.dll
+C:\New folder (2)\ProcessST\SolutionProcessST\Project\obj\Debug\Project.pdb
+C:\Users\Passarelli\Documents\Visual Studio 2015\Projects\ProcessST\SolutionProcessST\Project\bin\Project.dll.config
+C:\Users\Passarelli\Documents\Visual Studio 2015\Projects\ProcessST\SolutionProcessST\Project\bin\Project.dll
+C:\Users\Passarelli\Documents\Visual Studio 2015\Projects\ProcessST\SolutionProcessST\Project\bin\Project.pdb
+C:\Users\Passarelli\Documents\Visual Studio 2015\Projects\ProcessST\SolutionProcessST\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Passarelli\Documents\Visual Studio 2015\Projects\ProcessST\SolutionProcessST\Project\obj\Debug\Project.dll
+C:\Users\Passarelli\Documents\Visual Studio 2015\Projects\ProcessST\SolutionProcessST\Project\obj\Debug\Project.pdb
